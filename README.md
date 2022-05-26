@@ -3,7 +3,7 @@ This repo contains minimal scripts used to initialize new servers for better dev
 
 ## Setup `pip` mirror source
 Copy `.pip/` to your home directory.
-Or, copy the following lines to your local directory `~/.pip/pip.conf`
+Or, copy the following lines to your local file `~/.pip/pip.conf`
 ```
 [global]
 index-url = https://pypi.mirrors.ustc.edu.cn/simple/ 
